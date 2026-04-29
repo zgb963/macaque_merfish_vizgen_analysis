@@ -62,7 +62,7 @@ Gene expression counts in MERFISH represent the **number of RNA transcripts dete
 
 ## Results
 
-> 🔬 Analysis ongoing — results will be updated here.
+> 🔬 Analysis ongoing
 
 ---
 
