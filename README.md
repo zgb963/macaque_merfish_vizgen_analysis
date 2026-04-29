@@ -4,7 +4,7 @@
 
 The [UMMS SCOPE facility](https://www.umassmed.edu/scope/) and [Vizgen](https://vizgen.com/) collaborated with our neurobiology lab to generate a large-scale MERFISH/Spatial Transcriptomics dataset (~6 TB) profiling the primary visual cortex (V1) of the Rhesus macaque (*Macaca mulatta*, rhemac10).
 
-Using Excel and Python, a panel of **881 genes** was curated from rhemac10 and human (GRCh38) references to identify major cell types in V1 — including excitatory, inhibitory, glial, and vascular populations. The panel also includes **75 activity-dependent genes** associated with ocular dominance columns (ODCs) [(citation)](#).
+Using Excel and Python, I created a panel of **881 genes** curated from rhemac10 and human (GRCh38) references to identify major cell types in V1 — including excitatory, inhibitory, glial, and vascular populations. The panel also includes **75 activity-dependent genes** associated with ocular dominance columns (ODCs) [(citation)](#).
 
 ---
 
