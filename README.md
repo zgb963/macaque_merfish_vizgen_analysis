@@ -59,7 +59,15 @@ Gene expression counts in MERFISH represent the **number of RNA transcripts dete
 3. **Visualization** — Transcriptomic data exported from Jupyter into Vizgen MERSCOPE software *(version: TBD)* for spatial visualization
 
 ---
+## Notebooks
 
+All analyses are provided in both:
+- Jupyter Notebook (.ipynb)
+- HTML export (static report)
+
+Download and view HTML files for best viewing experience. Download and view Jupyter Notebook for raw code.
+
+---
 ## Results
 
 > 🔬 Analysis ongoing
