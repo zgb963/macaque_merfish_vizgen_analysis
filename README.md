@@ -77,5 +77,5 @@ Download and view HTML files for best viewing experience. Download and view Jupy
 ## References
 
 - [Wei et al. 2022](https://www.nature.com/articles/s41467-022-34590-1)
-- [Qian et al. 2025] (https://www.nature.com/articles/s41586-025-09010-1)
-- [Wang et al. 2025] (https://www.nature.com/articles/s41586-024-08351-7)
+- [Qian et al. 2025](https://www.nature.com/articles/s41586-025-09010-1)
+- [Wang et al. 2025](https://www.nature.com/articles/s41586-024-08351-7)
