@@ -48,7 +48,7 @@ Gene expression counts in MERFISH represent the **number of RNA transcripts dete
 - [ ] Identify cell types in macaque V1
 - [ ] Map the spatial organization of cell types
 - [ ] Predict activity states (active vs. inactive)
-- [ ] Validate gene expression patterns against rhemac10 snRNA-seq and [Wei et al. 2022](#)
+- [ ] Validate gene expression patterns against rhemac10 snRNA-seq and [Wei et al. 2022](https://www.nature.com/articles/s41467-022-34590-1)
 
 ---
 
@@ -76,5 +76,5 @@ Download and view HTML files for best viewing experience. Download and view Jupy
 
 ## References
 
-- Wei et al. 2022 — *(add full citation)*
+- [Wei et al. 2022](https://www.nature.com/articles/s41467-022-34590-1)
 - *(add additional references)*
