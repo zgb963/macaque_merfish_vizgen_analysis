@@ -79,3 +79,16 @@ Download and view HTML files for best viewing experience. Download and view Jupy
 - [Wei et al. 2022](https://www.nature.com/articles/s41467-022-34590-1)
 - [Qian et al. 2025](https://www.nature.com/articles/s41586-025-09010-1)
 - [Wang et al. 2025](https://www.nature.com/articles/s41586-024-08351-7)
+
+## Helpful Links
+
+- [Getting Started](https://vizgen.github.io/merscope-analysis-guide/gettingstart.html)
+- [MERSCOPE Output Data](https://vizgen.github.io/merscope-analysis-guide/notebook/merfish_data.html)
+- [Visualizing cell annotation and UMAP results with MERSCOPE Vizualizer](https://vizgen.github.io/merscope-analysis-guide/visualizer_umap.html)
+- [Cell type clustering with Python](https://vizgen.github.io/merscope-analysis-guide/notebook/tutorial_scanpy_cell.html)
+- [Spatial Analysis with Python](https://vizgen.github.io/merscope-analysis-guide/notebook/tutorial_scanpy_spatial.html)
+- [Cell type clustering with R](https://vizgen.github.io/merscope-analysis-guide/notebook/tutorial_seurat.html)
+- [Cell Quality Assessment and Filtering](https://vizgen.github.io/merscope-analysis-guide/notebook/cell_filtering.html)
+- [Cell type clustering Using GPUs](https://vizgen.github.io/merscope-analysis-guide/notebook/gpu_tutorial.html)
+
+
