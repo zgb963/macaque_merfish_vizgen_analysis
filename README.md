@@ -12,11 +12,11 @@ Using Excel and Python, I created a panel of **881 genes** curated from rhemac10
 
 **MERFISH (Multiplexed Error-Robust Fluorescence In Situ Hybridization)** is a high-throughput spatial transcriptomics method that detects and quantifies individual RNA transcripts directly within intact tissue sections using fluorescently labeled probes.
 
-### How it differs from snRNA-seq
+### How it differs from scRNA-seq
 
-While MERFISH/MERSCOPE and snRNA-seq both aim to quantify gene expression at single-cell resolution, they differ in approach:
+While MERFISH/MERSCOPE and scRNA-seq both aim to quantify gene expression at single-cell resolution, they differ in approach:
 
-| Feature | snRNA-seq | MERFISH/MERSCOPE |
+| Feature | scRNA-seq | MERFISH/MERSCOPE |
 |---|---|---|
 | Method | Sequencing RNA molecules | Fluorescent probe imaging |
 | Spatial info | ❌ Lost during dissociation | ✅ Preserved |
